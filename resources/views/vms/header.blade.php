@@ -445,7 +445,7 @@ a.nav-expander{
 					<div class="col-sm-6">
 						<h3>
 							<a href="{{route('vms.index')}}" title="Vaish Model Sr.Sec.School">
-								<img src="{{asset('logo/logo1.jpeg')}}" alt="Vaish Model Sr.Sec.School" style="width:80px;height: 80px ;margin-left: 20px;margin:15px;" class="img-fluid"><b style="font-size: 40px;color: #397f1a;">Vaish Internationl School</b>
+								<img src="{{asset('logo/logo1.jpeg')}}" alt="Vaish Model Sr.Sec.School" style="width:80px;height: 80px ;margin-left: 20px;margin:15px;" class="img-fluid"><b style="font-size: 40px;color: #397f1a;">Vaish International School</b>
 							</a>
 						</h3>
 					</div>

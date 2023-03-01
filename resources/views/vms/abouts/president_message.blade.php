@@ -35,10 +35,10 @@
 			<a href="{{route('vms.president.message')}}" class="item-link close-panel"><span> President's Message </span></a>
 		</li>
 		<li class="">
-			<a href="{{route('vms.general.secretary')}}" class="item-link close-panel"><span> General secretary's Message </span></a>
+			<a href="{{route('vms.general.secretary')}}" class="item-link close-panel"><span> General Secretary Message </span></a>
 		</li> 
 		<li>
-			<a href="{{route('vms.senior.wing')}}" class="item-link close-panel" rel="founders"><span>List of Member in Managing Commitee</span></a>
+			<a href="{{route('vms.senior.wing')}}" class="item-link close-panel" rel="founders"><span>List of Member Committee</span></a>
 		</li>
 		
 	</ul> 

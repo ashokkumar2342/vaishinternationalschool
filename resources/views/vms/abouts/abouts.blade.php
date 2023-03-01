@@ -37,10 +37,10 @@
 			<a href="{{route('vms.president.message')}}" class="item-link close-panel"><span> President's Message </span></a>
 		</li>
 		<li class="">
-			<a href="{{route('vms.general.secretary')}}" class="item-link close-panel"><span> General secretary's Message </span></a>
+			<a href="{{route('vms.general.secretary')}}" class="item-link close-panel"><span> General Secretary Message </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.senior.wing')}}" class="item-link close-panel" rel="founders"><span>List of Member in Managing Commitee</span></a>
+			<a href="{{route('vms.senior.wing')}}" class="item-link close-panel" rel="founders"><span>List of Member Committee</span></a>
 		</li>
 		
 	</ul> 
@@ -72,13 +72,14 @@
 	</div>
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
-<p style="text-align: justify;"><span style="line-height: 107%;">The ambitious VMS is the culmination of visio</span><span style="line-height: 107%;">n, inspiration and zeal of worthy trustees of the Vaish Mahavidyalaya Trust, Bhiwani. The idea of setting up such a model institution was first co</span><span style="line-height: 107%;">nceived in 1976. <b>Late Sh. Bhagirath Mal Buwaniwala Ji</b> acted like a beacon of light in collecting funds to start this institution. He, along with <b>Late Sh. Gauri Shankar Ji Bajaj</b></span><span style="line-height: 107%;">, who proved himself life and soul of the school, did a lot of spadework. As a result, it finally took concrete shape in 1980 when it made a modest debut in the educational sphere.</span><span style="line-height: 107%;"> </span></p>
-<p style="text-align: justify;"><span style="line-height: 107%;">The foundation stone of the ambitious VMS was laid down in 1980 by the benevolent hands of prominent social worker, veteran leader, renowned freedom fighter, Member of Parliament and former Chief Minister of Haryana Late <b>Sh. BanarasiDass Ji Gupta</b>. </span></p>
-<p style="text-align: justify;"><span style="line-height: 107%;">The school received its first affiliation to the Central Board of Secondary Education, New Delhi on April 01, 1991 and was further upgraded to the Senior Secondary level in April 1994. At present the caters to the need of approximately 4200 students in classes nursery to XII. The School has an exemplary record in academics with 27 batches of AISSE(X) and 24 batches of AISSCE (XII) passing out by 2019. During its journey of 39 years the school has established many milestones in all the academic, literary, co-scholastic areas and co-scholastic activities which have placed the institution at a prominent position in the entire region.</span></p>
-<h4><strong><span style="font-size: 28pt; line-height: 107%; font-family: 'Brush Script MT';">Concept &amp; Vision….</span></strong></h4>
-<p style="text-align: justify;"><span style="line-height: 107%;">The fundamental idea behind the establishment of the institute has been to build a sound system of human resource development by training and inculcating right values and skills in our children and provide a base for the entire gamut of educational system which the nation desires to evolve.</span></p>
-<p style="text-align: justify;"><span style="line-height: 107%;">Here the modern concept of education blends smoothly with the ancient and the traditional. The integral values in physical, emotional, rational, aesthetic, ethical and spiritual education are developed apart from regular teaching.</span></p>
-<p style="text-align: justify;"><span style="line-height: 107%;">Quality education, moral inheritance, mental stability, cool temperament and self discipline are stressed upon. An institution where the teacher and the student work together towards excellence in all spheres of life and the outlook is beyond examination with almost unlimited inputs aimed at the development of the total personality of the students. An open sky is provided to each and every student keeping in view that every child is a star waiting to shine and rise.</span></p>
+<h4><strong><span style="font-size: 28pt;">Introduction</span></strong></h4>
+	 
+<p style="text-align: justify;"> 
+The ambitious  Vaish International School, Bhiwani is the culmination of vision inspiration and zeal of worthy trustees of the Vaish Mahavidyalaya Trust, Bhiwani, Haryana. Vaish mahavidyalay Trust Bhiwani has taken one step forward by establishing Vaish International school as per international pattern having classes from Montessori (nursery )to 8th during the academic session 2023 24. It would provide dynamic and flexible learning environment.
+</p>
+
+<h4><strong><span style="font-size: 28pt;">Concept &amp; Vision….</span></strong></h4>
+<p style="text-align: justify;"><span style="line-height: 107%;">With a vision of cater to the needs of education for the global citizens and with the motto "Medium is English, While Culture is Indian." The school is determined to encourage our learners to discover their passion and decide their goal in life. The students of VMS (International Wing) will cherish their roots in the Indian value system and be global in their outlook and achievements</span></p>
 
 <div class="clear"></div>
 <hr style="margin: 50px 0;"/>

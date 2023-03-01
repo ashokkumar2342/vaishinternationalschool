@@ -74,7 +74,7 @@
 <p><strong>Fee Structure for Session</strong></p>
 <p>&nbsp;</p>
 <p><strong>Monthly Fee</strong></p>
-<table>
+<table style="width:100%" border="1">
 <tbody>
 <tr>
 <td width="150">
@@ -150,7 +150,7 @@
 </table>
 <p>&nbsp;</p>
 <p><strong>At the time of Admission</strong></p>
-<table>
+<table style="width:100%" border="1">
 <tbody>
 <tr>
 <td width="200">
@@ -178,7 +178,7 @@
 </table>
 <p>&nbsp;</p>
 <p><strong>Annual Charges</strong></p>
-<table>
+<table style="width:100%" border="1">
 <tbody>
 <tr>
 <td width="200">
@@ -219,7 +219,7 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table>
+<table style="width:100%" border="1">
 <tbody>
 <tr>
 <td width="236">
@@ -302,7 +302,7 @@
 </table>
 <p>&nbsp;</p>
 <p><strong>Summary</strong></p>
-<table>
+<table style="width:100%" border="1">
 <tbody>
 <tr>
 <td width="200">

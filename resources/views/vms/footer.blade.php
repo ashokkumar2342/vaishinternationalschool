@@ -41,55 +41,7 @@
 		</li>
 	</ul>
 </div>
-<li id="text-9" class="widget widget_text"><h5 class="mt-3">Follow us</h5>			<div class="textwidget"><div class="nws-form">
-<form method="post" action="https://www.doonschool.com/?na=s" onsubmit="return newsletter_check(this)">
-<div class="form-group row">
-<input class="form-control col-md-8 col-lg-9 blk-bg" type="email" name="ne" required><br />
-<input class="col-md-4 col-lg-3 btn-sbmt" type="submit" value="Submit">
-</div>
-</p></form>
-</div>
-<p><script data-cfasync="false" src="{{asset('vms/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js')}}"></script><script type="text/javascript">
-//<![CDATA[
-if (typeof newsletter_check !== "function") {
-window.newsletter_check = function (f) {
-var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{1,})+\.)+([a-zA-Z0-9]{2,})+$/;
-if (!re.test(f.elements["ne"].value)) {
-alert("The email is not correct");
-return false;
-}
-for (var i=1; i<20; i++) {
-if (f.elements["np" + i] &#038;&#038; f.elements["np" + i].required &#038;&#038; f.elements["np" + i].value == "") {
-alert("");
-return false;
-}
-}
-if (f.elements["ny"] &#038;&#038; !f.elements["ny"].checked) {
-alert("You must accept the privacy statement");
-return false;
-}
-return true;
-}
-}
-//]]>
-</script></p>
-</div>
-</li>
-<!--<h5 class="mt-3">Newsletter</h5>
-<div class="nws-form">
-<form action="." method="post">
-<div class="form-group row">
-<input type="text" class="form-control col-md-8 col-lg-9 blk-bg">
-<input type="submit" value="Submit" class="col-md-4 col-lg-3 btn-sbmt">
-</div>
-</form>
-</div>-->
-<div class="footer-social-links"> 
-	<a target="_blank" title="Facebook" href="https://www.facebook.com/vaishmodelschoolbhiwani/"><i class="fa fa-facebook"></i></a> 
-	<a target="_blank" title="Twitter" href="#"><i class="fa fa-twitter"></i></a> 
-	<a target="_blank" title="" href="#"><i class="fa fa-instagram"></i></a> 
-</div>
-</div>
+
 </div>
 <div class="row text-center">
 <p class="divider"></p>

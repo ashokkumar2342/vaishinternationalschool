@@ -1,0 +1,247 @@
+body
+{
+overflow:hidden
+}
+
+.clientName
+{
+	font-weight:normal;
+	color:#FFFFFF;
+	text-align:center;
+	text-shadow:4px 2px 8px #FF9900;
+}
+
+.child {
+ display: block;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ height:70%;
+ width:70%;
+ border: 5px solid #527FCC;
+ transform: translate(-50%, -50%);
+ -webkit-transform: translate(-50%, -50%); /* Safari and Chrome */
+ -moz-transform: translate(-50%, -50%); /* Firefox */
+ -ms-transform: translate(-50%, -50%); /* IE 9 */
+ -o-transform: translate(-50%, -50%); /* Opera */
+ 
+}
+div.PhotoBox 
+{
+	position:absolute;
+	Top:5%;
+	width:45%;
+	height:90%;
+	left:5%;
+	right:0%;
+	bottom:5%;
+	background-color:#295095;
+	border-left:#CCCCCC 1px solid;
+	border-top:#CCCCCC 1px solid; 
+	border-right:#CCCCCC 2px inset;
+	border-bottom:#CCCCCC 2px inset;
+	overflow:hidden;
+	text-align:center;
+	/*box-shadow: 1px 2px 10px rgba(0.2, 0.2, 0.2, 0.2); */
+	 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+div.LoginBox 
+{
+	position:absolute;
+	Top:5%;
+	width:45%;
+	height:90%;
+	left:50%;
+	right:5%;
+	bottom:5%;
+	background-color:white;
+	background:url(/images/loginbg.gif);
+	border-left:#CCCCCC 1px solid;
+	border-top:#CCCCCC 1px solid; 
+	border-right:#CCCCCC 2px inset;
+	border-bottom:#CCCCCC 2px inset;
+	overflow:hidden; 
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+div.LoginPart
+{
+	position:absolute;
+	Top:50%;
+	left:50%;
+	width:80%;
+	height:90%;	
+	/* box-shadow: 1px 2px 10px rgba(0.2, 0.2, 0.2, 0.2); */
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transform: translate(-50%, -50%);
+ -webkit-transform: translate(-50%, -50%); /* Safari and Chrome */
+ -moz-transform: translate(-50%, -50%); /* Firefox */
+ -ms-transform: translate(-50%, -50%); /* IE 9 */
+ -o-transform: translate(-50%, -50%); /* Opera */
+}
+div.LoginTop 
+{
+	position:absolute;
+	top:10px;	
+	width:100%;
+	height:20%;
+	background-color:white;
+	border:none;
+	overflow:hidden;
+
+}
+div.LoginTopClient 
+{
+	position:absolute;
+	Top:20%;
+	width:100%;
+	height:10%;	
+	background-color:white;
+	border:none;
+	overflow:hidden;
+}
+div.LoginBottom
+{
+	position:absolute;
+	Top:30%;
+	width:100%;
+	height:70%;	
+	background-color:white;
+	border:none;
+	overflow:hidden;
+}
+
+INPUT
+{
+    BORDER-RIGHT:#0000FF 1.5px solid;
+    BORDER-TOP: #0000FF 1.5px solid;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #0000FF 1.5px solid;
+    BORDER-BOTTOM: #0000FF 1.5px solid;
+    FONT-FAMILY: VERDANA;
+    BACKGROUND-COLOR: white;
+	border-radius: 3px;
+	padding-left:5px;
+	padding-right:25px;
+	
+}
+SELECT
+{
+    BORDER-RIGHT: #006699 1px solid;
+    BORDER-TOP: #006699 1px solid;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #006699 1px solid;
+    BORDER-BOTTOM: #006699 1px solid;
+    FONT-FAMILY: VERDANA;
+    BACKGROUND-COLOR: white
+}
+
+TABLE
+{
+    BORDER-BOTTOM: 1px;
+    BORDER-LEFT: 1px;
+    BORDER-RIGHT: 1px;
+    BORDER-TOP: 1px;
+    FONT-FAMILY: Verdana, Arial, Tahoma, Helvetica;
+    FONT-SIZE: 8pt
+}
+BODY
+{
+    FONT-FAMILY: Verdana, Arial, 'MS Serif';
+    FONT-SIZE: 8pt;
+    MARGIN: 0pt
+}
+A
+{
+    COLOR: midnightblue;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+
+A:Link
+{
+    COLOR: midnightblue;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+A:link
+{
+    COLOR: #000080
+}
+A:hover
+{
+    COLOR: red;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: underline
+}
+h1.drop-shadow
+ { 
+ 	text-shadow: 4px 4px 8px red 
+ }
+.button {
+    background-color:#0066FF;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+	width:50%;	
+}
+
+.button:hover {
+    background-color:#0033FF;
+}
+.textAreaBoxInputs 
+{
+	BORDER-RIGHT: #006699 1px solid;
+    BORDER-TOP: #006699 1px solid;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #006699 1px solid;
+    BORDER-BOTTOM: #006699 1px solid;
+    FONT-FAMILY: VERDANA;
+    BACKGROUND-COLOR: white
+}
+.dvShowHidePassword
+{
+	
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: -15px;
+	cursor: pointer;
+	padding: 0px 0px;
+	ser-select: none;
+	-webkit-user-select: none; /* webkit (safari, chrome) */
+	-moz-user-select: none; /* mozilla */
+	-khtml-user-select: none; /* webkit (konqueror) */
+	-ms-user-select: none; /* IE10+ */
+}
+
+ div.BBox 
+{
+position:absolute;
+overflow:hidden;
+width:100%; 
+height:4%;
+left:0%;
+Top:96%;
+background-color:white;
+border:#CCCCCC 1px solid;
+border-bottom:#CCCCCC 2px inset;
+background:url(../images/background_silver.jpg);
+font-size:12px;
+text-align:center;
+}
+fieldset { 
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+}

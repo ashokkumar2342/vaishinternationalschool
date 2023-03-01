@@ -1,0 +1,1 @@
+var fontSize=100;function set_font_size(e){"increase"==e?fontSize<130&&(fontSize=parseInt(fontSize)+3):"decrease"==e?fontSize>70&&(fontSize=parseInt(fontSize)-10):fontSize=100,$("#fontSize").css("font-size",fontSize+"%")}$(document).ready(function(){$("#fontSize").css("font-size",fontSize+"%")});

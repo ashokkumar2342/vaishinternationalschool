@@ -71,7 +71,7 @@
 						<a href="{{route('vms.student.life.academic')}}">Student Life</a>
 					</li>
 					<li class="cat-item cat-item-99">
-						<a href="{{route('vms.academic.news')}}">News & Calendar</a>
+						<a href="{{route('vms.student.life.academic')}}">News & Calendar</a>
 					</li>
 					{{-- <li class="cat-item cat-item-23">
 						<a href="{{route('vms.alumni')}}">Alumni</a>
@@ -85,9 +85,7 @@
 	</div>
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
-	<h4 style="text-align: center;"><span style="color: #0000ff;"><strong>"Learning is a continuous process of trials, experimentation, observation, evaluation and deriving conclusions"</strong></span></h4>
-	<p>&nbsp;</p>
-	<p style="text-align: justify;">Science labs for physics, chemistry, biology and mathematics fully equipped with model charts, instruments, chemicals and apparatus required by students in senior secondary school, maintained by efficient lab staff members." Learning by doing" opportunities help students in reviewing and reinforcing scientific &amp; experimental concepts and developing investigative skills.</p>
+	<p style="text-align: justify;">To ensure an ambience for innovative and creative pedagogy, the theory classes are supplemented with practical knowledge. The school possesses the most advanced Physics, Chemistry, Biology, Math & Language labs equipped with all necessary apparatus and infrastructure to facilitate the students to learn through experiments and activities.</p>
 	<h4>&nbsp;</h4>
 	<h4><span style="color: #000000;"><strong>Bilogoy Lab</strong></span></h4>
 	<table style="width: 1000px; height: 251px;">
@@ -157,7 +155,7 @@
 			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
 		{{-- <li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>

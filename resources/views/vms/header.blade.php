@@ -445,13 +445,14 @@ a.nav-expander{
 					<div class="col-sm-6">
 						<h3>
 							<a href="{{route('vms.index')}}" title="Vaish Model Sr.Sec.School">
-							<img src="{{asset('logo/logo1.jpeg')}}" alt="Vaish Model Sr.Sec.School" style="width:80px;height: 80px ;margin-left: 20px;margin:15px;" class="img-fluid"><b style="font-size: 40px;color: #397f1a;">Vaish Internationl School</b></a>
+								<img src="{{asset('logo/logo1.jpeg')}}" alt="Vaish Model Sr.Sec.School" style="width:80px;height: 80px ;margin-left: 20px;margin:15px;" class="img-fluid"><b style="font-size: 40px;color: #397f1a;">Vaish Internationl School</b>
+							</a>
 						</h3>
 					</div>
 					<div class="col-sm-6"> 
 						<div class="menu-wp">
-							<a href="{{route('vms.admissions')}}"  class="prnt-login"><span>Admission</span><i class="fa fa-address-card-o"></i></a>
-							<a href="{{route('vms.erplogin')}}" target="_blank" class="prnt-login"><span>ERP login</span><i class="fa fa-users"></i></a>
+							<a href="{{route('vms.admission.procedure')}}"  class="prnt-login"><span>Admission</span><i class="fa fa-address-card-o"></i></a>
+							<a href="#" target="_blank" class="prnt-login"><span>ERP login</span><i class="fa fa-users"></i></a>
 
 							<div class="search-pnl">
 								<div class="srch-btn" id="search-button"><i class="fa fa-search"></i>
@@ -500,10 +501,10 @@ a.nav-expander{
 										<a href="{{route('vms.index')}}"><i class="fa fa-home"></i>Home</a>
 									</li>						
 									<li>
-										<a href="{{route('vms.admissions')}}"><i class="fa fa-graduation-cap"></i>Admissions</a>
+										<a href="{{route('vms.admission.procedure')}}"><i class="fa fa-graduation-cap"></i>Admissions</a>
 									</li>
 									<li>
-										<a href="#" target="_blank"><i class="fa fa-sign-in"></i>Fee Payment</a>
+										<a href="#"><i class="fa fa-sign-in"></i>Fee Payment</a>
 									</li>
 								</ul>
 								<div class="menu-header-bottom-container">
@@ -518,7 +519,7 @@ a.nav-expander{
 											<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> Student Life</a>
 										</li>
 										<li id="menu-item-13872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13872">
-											<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i>News & Calendar</a>
+											<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i>News & Calendar</a>
 										</li>
 										
 										{{-- <li id="menu-item-14066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14066">

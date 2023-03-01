@@ -71,7 +71,7 @@
 						<a href="{{route('vms.student.life.academic')}}">Student Life</a>
 					</li>
 					<li class="cat-item cat-item-99">
-						<a href="{{route('vms.academic.news')}}">News & Calendar</a>
+						<a href="{{route('vms.student.life.academic')}}">News & Calendar</a>
 					</li>
 					{{-- <li class="cat-item cat-item-23">
 						<a href="{{route('vms.alumni')}}">Alumni</a>
@@ -87,7 +87,7 @@
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
 	
 	<img src="{{asset('images/vis/activity/ACLB2471.JPG')}}" alt="SKPS2227" width="450" height="300" style="display: block; margin-left: auto; margin-right: auto;" />
-	<p>School has multipurpose activity hall and it is used for a wide variety of purpose including co-curricular activities, competitions, examinations, Yoga etc.</p>
+	
 	
 
 
@@ -107,7 +107,7 @@
 			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
 		{{-- <li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>

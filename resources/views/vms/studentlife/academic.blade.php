@@ -31,8 +31,9 @@
 <div class="col-md-3 pg-sidebar wht-bg p-0">
 	<h3 class="pg-sb-hd text-center mb-3 pt-3 wow fadeInDown">Academics</h3>
 	<ul class="pg-links">  
+		
 		<li class="">
-			<a href="{{route('vms.admission.help.desk')}}" class="item-link close-panel"><span> Academics </span></a>
+			<a href="{{route('vms.student.life.academic')}}" class="item-link close-panel"><span> Academics </span></a>
 		</li>
 		<li class="">
 			<a href="{{route('vms.student.life.sports')}}" class="item-link close-panel"><span> Sports </span></a>
@@ -59,7 +60,7 @@
 						<a href="{{route('vms.student.life.academic')}}">Student Life</a>
 					</li>
 					<li class="cat-item cat-item-99">
-						<a href="{{route('vms.academic.news')}}">News & Calendar</a>
+						<a href="{{route('vms.student.life.academic')}}">News & Calendar</a>
 					</li>
 					{{-- <li class="cat-item cat-item-23">
 						<a href="{{route('vms.alumni')}}">Alumni</a>
@@ -74,8 +75,21 @@
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
 <p><img src="{{asset('images/vis/academic/ACLB2460.JPG')}}" alt="SKPS2188" width="450" height="300" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-<p style="text-align: justify;">The school is <strong>affiliated to the Central Board of Secondary Education (CBSE).</strong> English is the medium of instruction. The school has a dedicated faculty of highly qualified and efficient teachers, who use modern techniques of teaching. Skill based grading system is followed from Classes VI-VIII. The CCE pattern of assessment has also been introduced at the Middle School level. Interdisciplinary and experiential learning is encouraged to strengthen conceptual knowledge.</p>
-<p style="text-align: justify;">The school provides best-in-class infrastructure facilities to the students. The learning needs of each student are met in an environment that is supportive and affirming. Peer tutoring, remedial and enrichment classes are regularly conducted to optimize learning outcomes. The students of <strong><span style="color: #000000;">The Vaish Model Sr. Sec. School have excelled in all fields and have proceeded to study in the top colleges of India and abroad.</span></strong></p>
+<p><strong>Foundation Begins (Montessori Classes)</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>We are introducing Montessori Classes first time in Bhiwani at the Pre-Primery Level, educational programme based on Montessori philosophy and methods are being followed. We have well-equipped Training Halls, where the tiny tots learn in our informal way with the help of specially designed apparatus under the supervision and guidance of trained and experienced teachers.</p>
+<p>&nbsp;</p>
+<p><strong>Optimism Nurtured (Class I to V)</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Students of classes I to V are introduced to a viable academics and the vibrant world learning beyond the classroom. They will be provided the basics of the academics without even making them realize that they are being taught. Here, they will just love the process of learning.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Aspirations to Learn (Classes VI to IX)</strong></p>
+<p>&nbsp;</p>
+<p>With the love for extensive learning in primary classes, the students in classes VI to IX are exposed to a variety of dreams. besides the academic subjects students will be encouraged to participate in creative arts such as dance, music and craft.</p>
+
+
 
 
 
@@ -93,7 +107,7 @@
 			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
 		{{-- <li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>

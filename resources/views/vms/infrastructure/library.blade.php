@@ -71,7 +71,7 @@
 						<a href="{{route('vms.student.life.academic')}}">Student Life</a>
 					</li>
 					<li class="cat-item cat-item-99">
-						<a href="{{route('vms.academic.news')}}">News & Calendar</a>
+						<a href="{{route('vms.student.life.academic')}}">News & Calendar</a>
 					</li>
 					{{-- <li class="cat-item cat-item-23">
 						<a href="{{route('vms.alumni')}}">Alumni</a>
@@ -85,8 +85,7 @@
 	</div>
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
-	<h4 style="text-align: center;"><span style="color: #0000ff; font-family: arial black,avant garde;"><strong>"Whenever you read a good book, somewhere in the world a door opens to allow in more light"</strong></span></h4>
-	<h4>&nbsp;</h4>
+	<p style="text-align:justify;">The school has a well stocked library with more than 5000 books including the text books, encyclopedias reference material, literature, audio & video cassettes and CDs. The library is continuously updated to expose the students to modern trends and concepts of education. Besides the books, the library also subscribes to journals and magazines. It is also equipped with latest editions of reference books on various subjects.</p>
 	
 	<table style="width: 1000px; height: 251px;">
 		<tbody>
@@ -146,7 +145,7 @@
 			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
 		{{-- <li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>

@@ -52,7 +52,7 @@
 						<a href="{{route('vms.student.life.academic')}}">Student Life</a>
 					</li>
 					<li class="cat-item cat-item-99">
-						<a href="{{route('vms.academic.news')}}">News & Calendar</a>
+						<a href="{{route('vms.student.life.academic')}}">News & Calendar</a>
 					</li>
 					<li class="cat-item cat-item-23">
 						<a href="{{route('vms.alumni')}}">Alumni</a>
@@ -87,7 +87,7 @@ The school session commences in April every year. Registration from classes Nurs
 			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
 		<li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>

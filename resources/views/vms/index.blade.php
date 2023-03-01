@@ -8,10 +8,12 @@
 			<div class="bend niceties preview-1">
 				<div id="ensign-nivoslider-3" class="slides">
 					<img src="{{asset('banner/vis/ACLB2372.JPG')}}" alt="BUILDING STRONG KNOWLEDGE ROOTS" title="#slider-direction-1" /> 
+					<img src="{{asset('banner/vis/ACLB7350.JPG')}}" alt="BUILDING STRONG KNOWLEDGE ROOTS"  /> 
 					<img src="{{asset('banner/vis/ACLB2454.JPG')}}" alt="Class Room" title="#slider-direction-2" /> 
 					<img src="{{asset('banner/vis/ACLB2522.JPG')}}" alt="LEARNING EVERY MOMENT" title="#slider-direction-3" /> 
 					<img src="{{asset('banner/vis/ACLB2532.JPG')}}" alt="DEDICATION" title="#slider-direction-4" /> 
 					<img src="{{asset('banner/vis/ACLB2427.JPG')}}" alt="LEARNING WITH JOY" title="#slider-direction-5" /> 
+					<img src="{{asset('banner/vis/ACLB7352.JPG')}}" alt="LEARNING WITH JOY"/> 
 				</div>
 				<div id="slider-direction-1" class="t-cn slider-direction">
 					<div class="slider-content s-tb slide-1">         
@@ -76,278 +78,157 @@
 		</div>
 <!-- Slider 1 Area End Here --> 
 <!-- SECTION Overview ============================== -->
-<section class="block-section overview" id="overview">
+
+<section class="block-section homepage-video-section vdo-co-wrap pd-tb blk-gray-bg" id="vdo-co">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-9 abt-info pd-tb" >
+			<div class="col-md-12 pd-tb custom-abt-info">
 				<div class="row">
 					<div class="col-sm-12">
-						<h2 class="wow fadeInDown"> About</h2>
-						<h3 class="wow fadeInUp mb-4">Vaish Model Sr.Sec.School</h3>
-					</div>
-					<div class="col-sm-4"><div class="textwidget"><p class="wow fadeInUp fz16" style=" text-align: justify;visibility: visible; animation-name: fadeInUp;text-align: left;">Welcome to Vaish Model Sr.Sec.School. We are a school which specializes in all boys’ boarding education for pupils aged 12-18. The school is probably the only ‘All India’ school with applications from almost every state each year, as well as from Indian families overseas. Established in 1935, Vaish Model Sr.Sec.School is one of India’s finest schools, with a strong intellectual heartbeat.Vaish Model Sr.Sec.School is a full boarding school for boys only and not simply a school which welcomes boarders. The school’s beautiful seventy acre campus has a vast range of flora, fauna and bird life.</p>
-						<p class="text-center" style="padding-top: 8%;"><a class="btn-ui btn-ui-ylw wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;" href="{{route('vms.abouts')}}"><span>Read Mor</span>e <i class="fa fa-angle-right"></i></a></p>
+						<h3 class="wow fadeInUp mb-4">LATEST PHOTO'S</h3>
 					</div>
 				</div>
-				<div class="col-sm-4 brdr-rt wow fadeInLeft">
-					<div class="textwidget">
-						<p>
-							<a href="#" rel="noopener"><img class="img-full" src="{{asset('logo/logo.jpg')}}" alt="Boarding"></a>
-						</p>
-						<h5 class="mt-3 mb-3 txt-up">Vaish Model Sr.Sec.School United Nations Conference</h5>
-						<p>Founded in 2007, Vaish Model Sr.Sec.School United Nations Conference is one of the largest student-run MUN in India, attracting students from across the nation and beyond. </p>
-						<p class="text-center"><a class="btn-ui btn-ui-ylw wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;" href="#" rel="noopener noreferrer"><span>Read Mor</span>e <i class="fa fa-angle-right"></i></a></p>
+				<div class="video-carousel-home owl-carousel owl-theme popup-gallery">
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7348.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7348.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7350.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7350.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7351.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7351.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7352.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7352.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7353.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7353.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7354.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7354.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7355.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7355.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7361.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7361.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7363.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7363.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7366.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7366.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7370.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7370.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7371.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7371.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7372.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7372.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7376.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7376.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7377.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7377.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7378.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7378.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7379.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7379.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7348.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7348.JPG')}}" alt="Card image" />
+							</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="video-card">
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7348.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7348.JPG')}}" alt="Card image" />
+							</a>
+						</div>
 					</div>
 				</div>
-				<div class="col-sm-4 wow fadeInRight">			
-					<div class="textwidget"><p>
-						<img class="img-full" src="{{asset('images/imagge.png')}}" alt="Leadership"></p>
-						<h5 class="mt-3 mb-3 txt-up">So you want your son to study at Vaish Model Sr.Sec.School?</h5>
-						<p>Here’s all you need to know…..</p>
-						<p class="text-center" style="padding-top: 15%;"><a class="btn-ui btn-ui-ylw wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;" href="admissions/headmasters-presentation-for-prospective-parents/index.html"><span>Read Mor</span>e <i class="fa fa-angle-right"></i></a></p>
-					</div>
-				</div>            
 			</div>
 		</div>
-		<div class="col-md-3 side-info pdlr0">
-			<div class="textwidget">
-				<ul class="stats-slider doon-home-stats-slider" style="width: auto; position: relative; transition-duration: 0s; transform: translate3d(0px, -597.167px, 0px);">
-					<li style="float: none; list-style: none; position: relative; width: 285px;" class="bx-clone">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-							</p>
-						</div>
-					</li>
-					<li style="float: none; list-style: none; position: relative; width: 285px;" class="bx-clone">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-							</p>
-						</div>
-					</li>
-					<li style="float: none; list-style: none; position: relative; width: 285px;" class="bx-clone">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-							</p>
-						</div>
-					</li>
-					<li style="float: none; list-style: none; position: relative; width: 285px;" class="bx-clone">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-							</p>
-						</div>
-					</li>
-					<li style="float: none; list-style: none; position: relative; width: 285px;" class="bx-clone">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-							</p>
-						</div>
-					</li>
-					<li style="float: none; list-style: none; position: relative; width: 285px;">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-							</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-							</p>
-						</div>
-					</li>
-					<li style="float: none; list-style: none; position: relative; width: 285px;">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-						</p>
-						</div>
-					</li>
-					<li style="float: none; list-style: none; position: relative; width: 285px;" class="bx-clone">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-						</p>
-						</div>
-					</li>
-					<li style="float: none; list-style: none; position: relative; width: 285px;" class="bx-clone">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-						</p>
-						</div>
-					</li>
-					<li style="float: none; list-style: none; position: relative; width: 285px;" class="bx-clone">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-						</p>
-						</div>
-					</li>
-					<li style="float: none; list-style: none; position: relative; width: 285px;" class="bx-clone">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-						</p>
-						</div>
-					</li>
-					<li style="float: none; list-style: none; position: relative; width: 285px;" class="bx-clone">
-						<div class="hvr-sweep-to-left">
-							<h3>IBDP May 2022 Results</h3>
-							<p>Approximately <span>77.5%</span> of the candidates have secured 36 points and above. </p>
-							<p>Approximately <span>77.08%</span> of the total grades achieved by the candidates are 6 &#038; above.</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>IGCSE March 2022 Results</h3>
-							<p><span>90%</span> of overall grades are A* to A</p>
-						</p>
-						</div>
-						<div class="hvr-sweep-to-left">
-							<h3>ISC 2021 Results</h3>
-							<p><span>54%</span>  of the candidates scored <span>90%</span> and above</p>
-							<p><span>96.5%</span> candidates scored <span>80%</span> and above</p>
-						</p>
-						</div>
-					</li>
-				</ul>
-			</div> 
-		</div>
 	</div>
-</div>
 </section>  
 <!-- End SECTION Overview ============================== --> 
-<section class="block-section homepage-video-section vdo-co-wrap pd-tb blk-gray-bg" id="vdo-co">
+{{-- <section class="block-section homepage-video-section vdo-co-wrap pd-tb blk-gray-bg" id="vdo-co">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 pd-tb custom-abt-info">
@@ -402,9 +283,9 @@
 		</div>
 	</div>
 </div>
-</section>
+</section> --}}
 <!-- SECTION News & Events ============================== -->
-<section class="block-section news-wrap wht-bg pd-tb" id="news">
+{{-- <section class="block-section news-wrap wht-bg pd-tb" id="news">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 text-center">
@@ -472,169 +353,52 @@
 			</article>
 		</div>
 	</div>
-</section>
-<section class="block-section homepage-video-section vdo-co-wrap pd-tb blk-gray-bg" id="vdo-co">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 pd-tb custom-abt-info">
-				<div class="row">
-					<div class="col-sm-12">
-						<h3 class="wow fadeInUp mb-4">LATEST EVENT PHOTO'S</h3>
-					</div>
-				</div>
-				<div class="video-carousel-home owl-carousel owl-theme popup-gallery">
-					<div class="item">
-						<div class="video-card">
-							<a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3161.jpg')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3161.jpg')}}" alt="Card image" />
-							</a>
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3229.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3229.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3250.jpg')}}" style="width: 100PX;">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3250.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3254.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3254.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3266.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3266.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3278.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3278.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3323.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3323.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3407.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3407.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3422.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3422.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3504.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3504.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3537.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3537.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3603.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3603.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3691.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3691.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3773.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3773.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3811.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3811.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3896.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3896.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3928.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3928.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_3972.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_3972.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-					<div class="item">
-						<div class="video-card"><a class="video" title="This is a video" href="{{asset('images/latestphotos/DSC_4046.jpg')}}">
-							<img class="card-img-top" style="width: 100%;" src="{{asset('images/latestphotos/DSC_4046.jpg')}}" alt="Card image" /></a>
-							
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
+</section> --}}
+
 <!-- End SECTION News & Events ============================== --> 
 <!-- SECTION All School Videos and Co-curricular - Sense of community ============================== -->
 <section class="block-section vdo-co-wrap pd-tb blk-bg" id="vdo-co">
 	<div class="container">
 		<div class="row">
+			<div class="col-sm-12 text-center">
+				<h3 class="inr-hd wow fadeInDown">All School Image</h3>
+			</div>
 			<div class="col-lg-6">
-				<div class="row">
-					<div class="col-sm-12 text-center">
-						<h3 class="inr-hd wow fadeInDown">All School Video</h3>
-					</div>
+				<div class="row"> 
 					<div class="col-sm-12 pos wow fadeInLeft vdo-poster">
-						<img class="img-fluid" src="{{asset('images/vdo-poster.jpg')}}" alt="Poster"> 
-						<div class="play-ico"><a href="#"><i class="fa fa-play"></i></a></div>
+						<img class="img-fluid" src="{{asset('images/vis/gallery/ACLB7348.JPG')}}" alt="Poster"> 
+						<div class="play-ico"></div>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-6">
 				<div class="row">
-					<div class="col-sm-12 text-center">
-						<h3 class="inr-hd inr-hd-sm wow fadeInDown">From the Headmaster</h3>
-						<p class="co-txt wow fadeInUp">Newsletters with updates and current information</p>
-					</div>
-					<div class="col-md-6 wht-bg txt-blk wow fadeInLeft"> 
-						<p class="text-center " style="margin-top: 68%;">
-							<a href="#" class="btn-ui wow fadeInUp"><span>Read Mor</span>e <i class="fa fa-angle-right"></i></a>
-						</p> 
-					</div>
-					<div class="col-md-6 wow fadeInRightBig p-0">
-						<img src="{{asset('images/newsletters.png')}}" alt="Sense of community" width="270px" height="400px">
+					
+					<div class="col-sm-12 pos wow fadeInLeft vdo-poster">
+						<img class="img-fluid" src="{{asset('images/vis/gallery/ACLB7355.JPG')}}" alt="Poster"> 
+						<div class="play-ico"></div>
 					</div>
 				</div>
-			</div> 
+			</div>
+			<div class="col-lg-6">
+				<div class="row">
+					
+					<div class="col-sm-12 pos wow fadeInLeft vdo-poster">
+						<img class="img-fluid" src="{{asset('images/vis/gallery/ACLB7405.JPG')}}" alt="Poster"> 
+						<div class="play-ico"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="row">
+					
+					<div class="col-sm-12 pos wow fadeInLeft vdo-poster">
+						<img class="img-fluid" src="{{asset('images/vis/gallery/ACLB7451.JPG')}}" alt="Poster"> 
+						<div class="play-ico"></div>
+					</div>
+				</div>
+			</div>
+			 
 		</div>
 	</div>
 </section>

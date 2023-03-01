@@ -32,7 +32,7 @@
 	<h3 class="pg-sb-hd text-center mb-3 pt-3 wow fadeInDown">Sports</h3>
 	<ul class="pg-links">  
 		<li class="">
-			<a href="{{route('vms.admission.help.desk')}}" class="item-link close-panel"><span> Academics </span></a>
+			<a href="{{route('vms.student.life.academic')}}" class="item-link close-panel"><span> Academics </span></a>
 		</li>
 		<li class="">
 			<a href="{{route('vms.student.life.sports')}}" class="item-link close-panel"><span> Sports </span></a>
@@ -59,7 +59,7 @@
 						<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 					</li>
 					<li>
-						<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+						<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 					</li>
 					{{-- <li>
 						<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>
@@ -73,8 +73,7 @@
 	</div>
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
-<h3 class="grid4 fLeft" style="text-align: center;"><strong><span style="color: #ff6600;">"If you train hard, you'll not only be hard, you'll be hard to 'beat'."</span></strong></h3>
-<p>&nbsp;</p>
+
 <table style="width: 1000px; height: 251px;">
 	<tbody>
 		<tr>
@@ -105,40 +104,7 @@
 		</tr>
 	</tbody>
 </table>
-<table style="width: 100%; height: 325px;">
-<tbody>
-<tr>
-<td style="text-align: justify;">
-<p>Physical fitness is an essential element in the development of overall personality of a child. Sports provide an outlet to the development and experssion of the physical self of&nbsp; a students. The school provides a matrix of intra and inter-school sports activities. The students are encouraged to specialize in a sport, according to their inclination and also based on the suggestions of the expert physical Education Teacher. However, the boys are encouraged to play inter-house tournaments and participate in other sports, to promote all-rounder sportsmen. This emphasis also instills team spirit skills for life beyond the school days, and a wider appreciation of sport in general. <br class="blank" /><br class="blank" /> The students regularly represent The Vaish Model Sr. Sec. School teams at District, State, National and International Level and achieve top positions.</p>
-<table style="width: 610px; height: 121px;">
-<tbody>
-<tr>
-<td>&nbsp;Athletics</td>
-<td>Cricket</td>
-</tr>
-<tr>
-<td>Basketball</td>
-<td>Football</td>
-</tr>
-<tr>
-<td>Volleyball</td>
-<td>Chess</td>
-</tr>
-<tr>
-<td>Badminton</td>
-<td>Carrom</td>
-</tr>
-<tr>
-<td>Martial Arts</td>
-<td>Table Tennis</td>
-</tr>
-</tbody>
-</table>
-</td>
-
-</tr>
-</tbody>
-</table>
+<p>We believe in the propagation of the all- around development of a child. Sports provide an outlet to the development and expression of the physical self of a student. With our vast sprawling green grounds, the students get an exposure to play their optimal limits for the physical exercise which is a must as 'Sound mind dwells in a sound body' under the guidance of expert PTI &amp; Coaches students enthusiastically participate in different sports at different levels i.e. District, State and National Levels. In order to spot the talent in the field of sports Inter House Games and Sports competition will be held during the session.</p>
 
 
 
@@ -156,7 +122,7 @@
 			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
 		{{-- <li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>

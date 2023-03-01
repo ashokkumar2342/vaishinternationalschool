@@ -71,7 +71,7 @@
 						<a href="{{route('vms.student.life.academic')}}">Student Life</a>
 					</li>
 					<li class="cat-item cat-item-99">
-						<a href="{{route('vms.academic.news')}}">News & Calendar</a>
+						<a href="{{route('vms.student.life.academic')}}">News & Calendar</a>
 					</li>
 					{{-- <li class="cat-item cat-item-23">
 						<a href="{{route('vms.alumni')}}">Alumni</a>
@@ -86,8 +86,8 @@
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
 
+<p style="text-align:justify;">The school has a modern aesthetically designed, centrally air conditioned auditorium equipped with latest sound and lighting system.</p>
 <p><img src="{{asset('images/vis/auditorium/auditorium.jpg')}}" alt="SKPS2089" width="450" height="299" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-<p>Well equipped with an overhead projector and a very large screen for conducting various seminars, lectures, workshops, presentation etc. to suppport e-learning.&nbsp;</p>
 
 
 
@@ -107,7 +107,7 @@
 			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
 		{{-- <li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>

@@ -32,7 +32,7 @@
 	<h3 class="pg-sb-hd text-center mb-3 pt-3 wow fadeInDown">Yoga & Life Science</h3>
 	<ul class="pg-links">  
 		<li class="">
-			<a href="{{route('vms.admission.help.desk')}}" class="item-link close-panel"><span> Academics </span></a>
+			<a href="{{route('vms.student.life.academic')}}" class="item-link close-panel"><span> Academics </span></a>
 		</li>
 		<li class="">
 			<a href="{{route('vms.student.life.sports')}}" class="item-link close-panel"><span> Sports </span></a>
@@ -59,7 +59,7 @@
 						<a href="{{route('vms.student.life.academic')}}">Student Life</a>
 					</li>
 					<li class="cat-item cat-item-99">
-						<a href="{{route('vms.academic.news')}}">News & Calendar</a>
+						<a href="{{route('vms.student.life.academic')}}">News & Calendar</a>
 					</li>
 					{{-- <li class="cat-item cat-item-23">
 						<a href="{{route('vms.alumni')}}">Alumni</a>
@@ -74,7 +74,7 @@
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
 <p><img src="{{asset('images/vis/yoga/ACLB2399.JPG')}}" alt="2" width="450" height="297" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-<p style="text-align: justify;"><span style="font-size: 12pt; line-height: 115%; font-family: times new roman,times; color: #3d3d3d;">The Yoga has been made a part of daily routine of the school from the very beginning. Yogic Kriyas of Yoga are being practiced by an expert yoga teacher in the school. Special Yoga and Life Science Workshops are arranged along with preaching’s of eminent personalities time to time.</p>
+<p style="text-align: justify;">Students practise Yogic Kriyas under the guidance of an expert yoga teacher in the school. Special yoga and Life Science workshops are arranged along with preaching of eminent personalities.</p>
 
 
 
@@ -94,7 +94,7 @@
 			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
 		{{-- <li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>

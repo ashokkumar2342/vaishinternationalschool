@@ -32,7 +32,7 @@
 	<h3 class="pg-sb-hd text-center mb-3 pt-3 wow fadeInDown">Co-Curricular Activities</h3>
 	<ul class="pg-links">  
 		<li class="">
-			<a href="{{route('vms.admission.help.desk')}}" class="item-link close-panel"><span> Academics </span></a>
+			<a href="{{route('vms.student.life.academic')}}" class="item-link close-panel"><span> Academics </span></a>
 		</li>
 		<li class="">
 			<a href="{{route('vms.student.life.sports')}}" class="item-link close-panel"><span> Sports </span></a>
@@ -59,7 +59,7 @@
 						<a href="{{route('vms.student.life.academic')}}">Student Life</a>
 					</li>
 					<li class="cat-item cat-item-99">
-						<a href="{{route('vms.academic.news')}}">News & Calendar</a>
+						<a href="{{route('vms.student.life.academic')}}">News & Calendar</a>
 					</li>
 					{{-- <li class="cat-item cat-item-23">
 						<a href="{{route('vms.alumni')}}">Alumni</a>
@@ -74,11 +74,7 @@
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
 <p><img src="{{asset('images/vis/cocurriculer/ACLB7402.JPG')}}" alt="SKPS2095" width="450" height="300" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-<p style="text-align: justify;">The school stresses to inculcate in young minds a sense of self-respect, pride, love and dedication to country. It tries to develop a tripolar process of&nbsp;3Hs, i.e. Head, Heart and Hand, <strong>among students, teachers and parents</strong>. The citizens of tomorrow are taught the ordinary traits of character&nbsp;like<strong> honesty, self confidence, co-operation, diligence, leadership and responsibility through Co-curricular activities.</strong></p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">Debates, quiz contests and useful excursions are some of the&nbsp;<strong>cultural as well as educational activities organized by school time to time</strong>.&nbsp;The school also promotes hobbies like&nbsp;<strong>Yoga, Music, Dancing, Drawing,&nbsp;Craft, Painting etc</strong>.</p>
-<p style="text-align: justify;">The school provides facilities for both indoor and outdoor games to promote healthy spirit of competition.</p>
-
+<p>The school provides ample scope for the enrichment of the social and cultural life of Pupils. It is beyond the class room that a student's character is really developed. The cultural life of the school is rich and varied. The seeds are sown within the curriculum. An atmosphere of creativity is maintained throughout the year. Competitions like Rangoli, Card Making, Rakhi Making, Fancy Dress, Paper Reading, Drawing, Hindi &amp; English Calligraphy, Story Telling, Snack Making, Debate and Declamation Competitions enables child to be creative and observant. All the activities are listed in the School Almanac.</p>
 
 
 <div class="clear"></div>
@@ -95,7 +91,7 @@
 			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
 		{{-- <li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>

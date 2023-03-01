@@ -10,9 +10,9 @@ Route::get('change-password', 'AccountController@changePassword')->name('vms.cha
 Route::post('change-password-store', 'AccountController@changePasswordStore')->name('vms.change.password.store');
 
 Route::prefix('admissions')->group(function () {
-	Route::get('admissions', 'VmsController@admissions')->name('vms.admissions');
-	Route::get('admission-help-desk', 'VmsController@admissionHelpDesk')->name('vms.admission.help.desk');
 	Route::get('admission-procedure', 'VmsController@admissionProcedure')->name('vms.admission.procedure');
+	// Route::get('admissions', 'VmsController@admissions')->name('vms.admissions');
+	// Route::get('admission-help-desk', 'VmsController@admissionHelpDesk')->name('vms.admission.help.desk');
 });
 
 Route::prefix('abouts')->group(function () { 

@@ -71,7 +71,7 @@
 						<a href="{{route('vms.student.life.academic')}}">Student Life</a>
 					</li>
 					<li class="cat-item cat-item-99">
-						<a href="{{route('vms.academic.news')}}">News & Calendar</a>
+						<a href="{{route('vms.student.life.academic')}}">News & Calendar</a>
 					</li>
 					{{-- <li class="cat-item cat-item-23">
 						<a href="{{route('vms.alumni')}}">Alumni</a>
@@ -85,6 +85,7 @@
 	</div>
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
+<p style="text-align: justify;">The school provides well equipped vocal, instrumental Music and Dance Room where the students will be trained in various forms of performing arts.</p>
 <table style="width: 1000px; height: 251px;">
 	<tbody>
 		<tr>
@@ -105,9 +106,7 @@
 		</tr>
 	</tbody>
 </table>
-<p style="text-align: justify;">School has well furnished airy and well maintained Art and Craft room. Arts and crafts describes a wide variety of activities involving making things with one's own hands. Arts and crafts is usually a hobby.</p>
-<p style="text-align: justify;">Every Block of the school has its own display boards. Various items like sketches, painting, messages, notices, timetables, competition schedules, information of various courses and examinations, news items, achievement and other facts find place on these boards.</p>
-<p style="text-align: justify;">The school also maintains a wall magazine name 'SANKALAN' to give vent to the literary expressions of the students in the form of articles, poetry, quotable-quotes, inspirational messages and other innovative media.</p>
+
 				
 
 <div class="clear"></div>
@@ -124,7 +123,7 @@
 			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
 		{{-- <li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>

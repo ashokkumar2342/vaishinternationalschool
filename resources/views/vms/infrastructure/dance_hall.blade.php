@@ -70,7 +70,7 @@
 						<a href="{{route('vms.student.life.academic')}}">Student Life</a>
 					</li>
 					<li class="cat-item cat-item-99">
-						<a href="{{route('vms.academic.news')}}">News & Calendar</a>
+						<a href="{{route('vms.student.life.academic')}}">News & Calendar</a>
 					</li>
 					{{-- <li class="cat-item cat-item-23">
 						<a href="{{route('vms.alumni')}}">Alumni</a>
@@ -85,8 +85,8 @@
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
  
+<p style="text-align:justify;">Art & Craft room in the school to cater to the needs of different departments. It is beautifully designed and tastefully decorated with drawings, paintings, artefacts where students can express and have their artistic abilities.</p>
 <p><img src="{{asset('images/vis/dance/ACLB7384.JPG')}}" alt="danceroom1" width="450" height="253" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-<p>Students learn/rehearse a variety of dance styles including modern and hip hop, as well as traditional Indian dances. Students of all musical talent levels, and a variety of instruments, are encouraged to participate.</p>
 
 
 				
@@ -105,7 +105,7 @@
 			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-info-circle"></i> <span> Student Life </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
+			<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
 		{{-- <li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>

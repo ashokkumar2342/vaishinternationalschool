@@ -31,12 +31,12 @@
 <div class="col-md-3 pg-sidebar wht-bg p-0">
 	<h3 class="pg-sb-hd text-center mb-3 pt-3 wow fadeInDown">Admissions Procedure</h3>
 	<ul class="pg-links">  
-		<li class="">
+		{{-- <li class="">
 			<a href="{{route('vms.admission.help.desk')}}" class="item-link close-panel"><span> Admissions Help Desk </span></a>
 		</li>
 		<li class="">
 			<a href="{{route('vms.admission.procedure')}}" class="item-link close-panel"><span> Admissions Procedure </span></a>
-		</li>
+		</li> --}}
 	</ul>
 	<div class="category-sidebar">
 		<div class="textwidget">
@@ -52,11 +52,11 @@
 						<a href="{{route('vms.student.life.academic')}}">Student Life</a>
 					</li>
 					<li class="cat-item cat-item-99">
-						<a href="{{route('vms.academic.news')}}">News & Calendar</a>
+						<a href="{{route('vms.student.life.academic')}}">News & Calendar</a>
 					</li>
-					<li class="cat-item cat-item-23">
+					{{-- <li class="cat-item cat-item-23">
 						<a href="{{route('vms.alumni')}}">Alumni</a>
-					</li>
+					</li> --}}
 					<li class="cat-item cat-item-53">
 						<a href="{{route('vms.contacts')}}">Contact Us</a>
 					</li>
@@ -66,106 +66,307 @@
 	</div>
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
-<h3 class="inr-hd-bg">ADMISSION HELP DESK</h3>
+<h3 class="inr-hd-bg">Registration Form</h3>
 <p><img src="{{asset('images/principal_img.jpg')}}" alt="VMS, Bhiwani - Principal" width="250" vspace="0" hspace="10"></p>
-<ul>
-	<li style="text-align: justify;">Admission in all the classes is based purely on performance in the previous class as well as in the admission test, subsequent interview of the candidate and personal interview with the parents. Therefore, parents are required to accompany their wards at the time of test as well as the time of their admission.&nbsp;</li>
-</ul>
-<ul style="text-align: justify;">
-	<li>If a parent/guardian decides not to send his ward to the school after the fee has been deposited or the student fails to report within six days after admission ,his/her admission will be declared cancelled.</li>
-</ul>
-<ul style="text-align: justify;">
-	<li>If a student fails to deposit fee and relevant document within three days from the date of declaration of the list of successful candidates for admission, his/her admission may be treated as cancelled.&nbsp;</li>
-</ul>
-<ul>
-	<li style="text-align: justify;">If a parent decides not to send his child to the school after the fee has been deposited, the above mentioned amount will not be refunded in any case except the tuition fees-deposited in advance for more than the current month.</li>
-</ul>
-<h4>&nbsp;</h4>
-<h4 style="text-align: justify;"><span style="color: #800000;"><strong>WHO CAN APPLY?</strong></span></h4>
+
+<p>Note :: Prospectus/Registration Fee Will Be Deposit ₹1000 At The Time Of Submission of This Form.</p>
+<p><span><strong><a href="{{asset('registration_form/vis_regis_form.pdf')}}" class="btn btn-primary" target="_blank" style="color: #fff;">Download Registration Form</a></strong></span></p>
+<p><strong>Fee Structure for Session</strong></p>
 <p>&nbsp;</p>
-<ul style="text-align: justify;">
-	<li>The minimum age for admission to Nursery (L.K.G) is 3+ years and so on for classes till 11th.</li>
-</ul>
-<ul style="text-align: justify;">
-	<li>No Admission is made in classes 10th &amp; 12th.</li>
-</ul>
-<ul style="text-align: justify;">
-	<li>A student appearing for A.I.S.S.E. (10th class Board Exam)from this school will be granted provisional admission to class XI in April &amp; his/her stream [Medical, Non-Medical, Commerce or Humanities (Arts) ] will be decided as per percentage decided by the school to be drawn on the basis of the cumulative performance of the student throughout the previous academic year(X class) including Pre-Board Examination if the student has not obtained the required percentage, he/she will be given a chance (only once) like the outside to appear in the admission test .The student will be granted required stream only when he/she qualifies this admission test.</li>
-</ul>
-<ul style="text-align: justify;">
-	<li>The provisional admission will be regularized provided the student clears class X Board exam in five /six Subjects.</li>
-</ul>
-<ul style="text-align: justify;">
-	<li>In case, the provisional admission is not regularized, the school will return the fee realized under the given heads only viz: building fund, Security, Annual Charges.</li>
-</ul>
-<p style="text-align: justify;">&nbsp;</p>
-<h4><span style="color: #800000;"><strong>SUBJECTS FOR ADMISSION</strong></span></h4>
-<table border="0" style="width: 934px; height: 662px;">
-	<tbody>
-		<tr style="height: 0.25in;">
-			<td colspan="3" style="padding: 0in; height: 0.25in;"><span style="font-family: times new roman,times;"><b><span style="font-size: 12pt; color: #3d3d3d;">C. <span style="color: #0000ff;">VI to X STANDRAD</span></span></b></span></td>
-		</tr>
-		<tr style="height: 11.25pt;">
-			<td>&nbsp;</td>
-			<td colspan="2"><span style="color: #800000;"><strong>ACADEMIC - A&nbsp;</strong></span></td>
-		</tr>
-		<tr style="height: 33.75pt;">
-			<td colspan="2">1. Language I-English&nbsp;<br /> 3. Mathematics&nbsp;<br /> 5. Social Science</td>
-			<td>2. Language II -Hindi&nbsp;<br /> 4. Science&nbsp;<br /> 6. Sanskrit as Third Language / FIT</td>
-		</tr>
-		<tr style="height: 9.75pt;">
-			<td style="padding: 0in; height: 9.75pt;"><span style="font-family: times new roman,times;"></span></td>
-			<td style="width: 231pt; padding: 0in; height: 9.75pt;"><span style="font-family: times new roman,times;"></span></td>
-			<td style="padding: 0in; height: 9.75pt;"><span style="font-family: times new roman,times;"></span></td>
-		</tr>
-		<tr style="height: 10px;">
-			<td style="padding: 0in; height: 19.5pt;"><span style="font-family: times new roman,times;"></span></td>
-			<td colspan="2"><strong><span style="color: #800000;">ACADEMIC - B</span></strong></td>
-		</tr>
-		<tr style="height: 0.5in;">
-			<td colspan="2">1. Health &amp; Physical Education&nbsp;<br /> 3. Art Education</td>
-			<td>2. Work Experience&nbsp;<br /> 4. Co- Scholastic Areas</td>
-		</tr>
-		<tr style="height: 8.25pt;">
-			<td style="padding: 0in; height: 8.25pt;"><span style="font-family: times new roman,times;"></span></td>
-			<td style="padding: 0in; height: 8.25pt;"><span style="font-family: times new roman,times;"></span></td>
-			<td style="padding: 0in; height: 8.25pt;"><span style="font-family: times new roman,times;"></span></td>
-		</tr>
-		<tr style="height: 0.25in;">
-			<td colspan="3" style="padding: 0in; height: 0.25in;">
-				<table border="0" style="width: 1025px; height: 295px;">
-					<tbody>
-						<tr style="height: 20px;">
-							<td colspan="3"><span style="color: #800000;"><strong>D. XI to XII STANDRAD</strong></span></td>
-						</tr>
-						<tr style="height: 10px;">
-							<td style="width: 0.25in; padding: 0in; height: 21.75pt;"><strong><span style="font-size: 12pt; font-family: times new roman,times; color: #0000ff;"></span></strong></td>
-							<td><strong>Stream / Faculty</strong></td>
-							<td><strong>Subject-Combination</strong></td>
-						</tr>
-						<tr style="height: 67.5pt;">
-							<td style="width: 0.25in; padding: 0in; height: 67.5pt;"><span style="font-size: 12pt; font-family: times new roman,times; color: #3d3d3d;"></span></td>
-							<td>
-								<p>Medical :-&nbsp;</p>
-								<p>Non Medical :-</p>
-								<p>Commerce :-&nbsp;</p>
-								<p>Humanities :-&nbsp;</p>
-							</td>
-							<td>
-								<p>English , Physics , Chemistry , Biology , Maths/Hindi/ Sanskrit&nbsp;</p>
-								<p>English , Physics , Chemistry ,Maths ,Comp. Sci./ Hindi / Sanskrit</p>
-								<p>English , Business Studies, Accountancy, Economics ,</p>
-								<p>Maths / Hindi / Sanskrit /Comp. Science .</p>
-								<p>English , Economics , Political Science, Geography,</p>
-								<p>Hindi / Sanskrit / Mathematics</p>
-							</td>
-						</tr>
-					</tbody>
-				</table>
-			</td>
-		</tr>
-	</tbody>
+<p><strong>Monthly Fee</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="150">
+<p><strong>Class</strong></p>
+</td>
+<td width="114">
+<p><strong>Tuition Fee</strong></p>
+</td>
+<td width="227">
+<p><strong>Charges for Amenities &amp; Facilities</strong></p>
+</td>
+<td width="110">
+<p><strong>Total</strong></p>
+</td>
+</tr>
+<tr>
+<td width="150">
+<p>Nur &amp; K.G.</p>
+</td>
+<td width="114">
+<p>1030</p>
+</td>
+<td width="227">
+<p>420</p>
+</td>
+<td width="110">
+<p>1450</p>
+</td>
+</tr>
+<tr>
+<td width="150">
+<p>I to V</p>
+</td>
+<td width="114">
+<p>1430</p>
+</td>
+<td width="227">
+<p>470</p>
+</td>
+<td width="110">
+<p>1900</p>
+</td>
+</tr>
+<tr>
+<td width="150">
+<p>VI to VIII</p>
+</td>
+<td width="114">
+<p>1580</p>
+</td>
+<td width="227">
+<p>520</p>
+</td>
+<td width="110">
+<p>2100</p>
+</td>
+</tr>
+<tr>
+<td width="150">
+<p>IX onward</p>
+</td>
+<td width="114">
+<p>1820</p>
+</td>
+<td width="227">
+<p>480</p>
+</td>
+<td width="110">
+<p>2300</p>
+</td>
+</tr>
+</tbody>
 </table>
+<p>&nbsp;</p>
+<p><strong>At the time of Admission</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="200">
+<p>Registration Fee</p>
+</td>
+<td width="200">
+<p>300</p>
+</td>
+<td width="200">
+<p>(For new Student)</p>
+</td>
+</tr>
+<tr>
+<td width="200">
+<p>Admission Fee</p>
+</td>
+<td width="200">
+<p>1200</p>
+</td>
+<td width="200">
+<p>(For new Student)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Annual Charges</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="200">
+<p>Nur &amp; K.G.</p>
+</td>
+<td width="200">
+<p>6500</p>
+</td>
+<td rowspan="4" width="200">
+<p>&nbsp;</p>
+<p>(For new Student)</p>
+</td>
+</tr>
+<tr>
+<td width="200">
+<p>I to V</p>
+</td>
+<td width="200">
+<p>7500</p>
+</td>
+</tr>
+<tr>
+<td width="200">
+<p>VI to VIII</p>
+</td>
+<td width="200">
+<p>9000</p>
+</td>
+</tr>
+<tr>
+<td width="200">
+<p>IX onward</p>
+</td>
+<td width="200">
+<p>10000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td width="236">
+<p>Building Fund</p>
+</td>
+<td width="85">
+<p>1200</p>
+</td>
+<td width="280">
+<p>[(For New Student (Refundable)]</p>
+</td>
+</tr>
+<tr>
+<td width="236">
+<p>Security</p>
+</td>
+<td width="85">
+<p>500</p>
+</td>
+<td width="280">
+<p>[(For New Student (Refundable)]</p>
+</td>
+</tr>
+<tr>
+<td width="236">
+<p>Van Charges</p>
+</td>
+<td width="85">
+<p>800</p>
+</td>
+<td width="280">
+<p>(Per Month)</p>
+</td>
+</tr>
+<tr>
+<td width="236">
+<p>Brother / Sister Concession</p>
+</td>
+<td width="85">
+<p>150</p>
+</td>
+<td width="280">
+<p>(Per Exam for All Students)</p>
+</td>
+</tr>
+<tr>
+<td width="236">
+<p>Exam (Nur. &ndash; K.G.)</p>
+</td>
+<td width="85">
+<p>100</p>
+</td>
+<td width="280">
+<p>(Per Exam for All Students)</p>
+</td>
+</tr>
+<tr>
+<td width="236">
+<p>I to VIII</p>
+</td>
+<td width="85">
+<p>150</p>
+</td>
+<td width="280">
+<p>(Per Exam for All Students)</p>
+</td>
+</tr>
+<tr>
+<td width="236">
+<p>(IX)</p>
+</td>
+<td width="85">
+<p>200</p>
+</td>
+<td width="280">
+<p>(Per Exam for All Students)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Summary</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="200">
+<p><strong>Class</strong></p>
+</td>
+<td width="200">
+<p><strong>For New Student</strong></p>
+</td>
+<td width="200">
+<p><strong>For Our Own Students</strong></p>
+</td>
+</tr>
+<tr>
+<td width="200">
+<p>Nur &amp; K.G.</p>
+</td>
+<td width="200">
+<p>11150</p>
+</td>
+<td width="200">
+<p>9150</p>
+</td>
+</tr>
+<tr>
+<td width="200">
+<p>I to V</p>
+</td>
+<td width="200">
+<p>12600</p>
+</td>
+<td width="200">
+<p>10600</p>
+</td>
+</tr>
+<tr>
+<td width="200">
+<p>VI to VIII</p>
+</td>
+<td width="200">
+<p>14300</p>
+</td>
+<td width="200">
+<p>12300</p>
+</td>
+</tr>
+<tr>
+<td width="200">
+<p>IX</p>
+</td>
+<td width="200">
+<p>15500</p>
+</td>
+<td width="200">
+<p>13500</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Note: 5% Concession will be granted to the parents paying annual fees instead of monthly fees. </strong></p>
+
+
+
+
 
 <div class="clear"></div>
 <hr style="margin: 50px 0;"/>
@@ -183,9 +384,9 @@
 		<li>
 			<a href="{{route('vms.academic.news')}}"><i class="fa fa-trophy"></i> <span> News & Calendar </span></a>
 		</li>
-		<li>
+		{{-- <li>
 			<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i> <span> Alumni </span></a>
-		</li>
+		</li> --}}
 		<li>
 			<a href="{{route('vms.contacts')}}"><i class="fa fa-info"></i> <span> Contact Us </span></a>
 		</li>

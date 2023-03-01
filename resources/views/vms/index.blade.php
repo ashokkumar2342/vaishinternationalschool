@@ -98,8 +98,8 @@
 					</div>
 					<div class="item">
 						<div class="video-card">
-							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7350.JPG')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7350.JPG')}}" alt="Card image" />
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB2460.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB2460.JPG')}}" alt="Card image" />
 							</a>
 						</div>
 					</div>
@@ -112,22 +112,22 @@
 					</div>
 					<div class="item">
 						<div class="video-card">
-							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7352.JPG')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7352.JPG')}}" alt="Card image" />
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7458.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7458.JPG')}}" alt="Card image" />
 							</a>
 						</div>
 					</div>
 					<div class="item">
 						<div class="video-card">
-							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7353.JPG')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7353.JPG')}}" alt="Card image" />
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7415.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7415.JPG')}}" alt="Card image" />
 							</a>
 						</div>
 					</div>
 					<div class="item">
 						<div class="video-card">
-							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7354.JPG')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7354.JPG')}}" alt="Card image" />
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7471.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7471.JPG')}}" alt="Card image" />
 							</a>
 						</div>
 					</div>
@@ -154,15 +154,15 @@
 					</div>
 					<div class="item">
 						<div class="video-card">
-							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7366.JPG')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7366.JPG')}}" alt="Card image" />
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7429.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7429.JPG')}}" alt="Card image" />
 							</a>
 						</div>
 					</div>
 					<div class="item">
 						<div class="video-card">
-							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7370.JPG')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7370.JPG')}}" alt="Card image" />
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7478.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7478.JPG')}}" alt="Card image" />
 							</a>
 						</div>
 					</div>
@@ -182,36 +182,36 @@
 					</div>
 					<div class="item">
 						<div class="video-card">
-							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7376.JPG')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7376.JPG')}}" alt="Card image" />
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7490.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7490.JPG')}}" alt="Card image" />
 							</a>
 						</div>
 					</div>
 					<div class="item">
 						<div class="video-card">
-							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7377.JPG')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7377.JPG')}}" alt="Card image" />
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7501.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7501.JPG')}}" alt="Card image" />
 							</a>
 						</div>
 					</div>
 					<div class="item">
 						<div class="video-card">
-							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7378.JPG')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7378.JPG')}}" alt="Card image" />
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7503.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7503.JPG')}}" alt="Card image" />
 							</a>
 						</div>
 					</div>
 					<div class="item">
 						<div class="video-card">
-							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7379.JPG')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7379.JPG')}}" alt="Card image" />
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7499.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7499.JPG')}}" alt="Card image" />
 							</a>
 						</div>
 					</div>
 					<div class="item">
 						<div class="video-card">
-							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7348.JPG')}}">
-								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7348.JPG')}}" alt="Card image" />
+							<a class="" title="This is a Image" href="{{asset('images/vis/gallery/ACLB7505.JPG')}}">
+								<img class="card-img-top" style="width: 100%;" src="{{asset('images/vis/gallery/ACLB7505.JPG')}}" alt="Card image" />
 							</a>
 						</div>
 					</div>

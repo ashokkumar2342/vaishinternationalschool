@@ -22,10 +22,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-M8X6JZL');</script>
 <!-- End Google Tag Manager -->
 <!-- Favicon ================================= --><!-- Favicon ================================= -->
-<link rel="icon" href="{{asset('vms/wp-content/themes/doon/favicon.ico')}}">
-<link rel="apple-touch-icon" sizes="120x120" href="{{asset('vms/wp-content/themes/doon/apple-touch-icon.png')}}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{asset('vms/wp-content/themes/doon/favicon-32x32.png')}}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{asset('vms/wp-content/themes/doon/favicon-16x16.png')}}">
+{{-- <link rel="icon" href="{{asset('vms/wp-content/themes/doon/favicon.ico')}}"> --}}
+{{-- <link rel="apple-touch-icon" sizes="120x120" href="{{asset('vms/wp-content/themes/doon/apple-touch-icon.png')}}"> --}}
+{{-- <link rel="icon" type="image/png" sizes="32x32" href="{{asset('vms/wp-content/themes/doon/favicon-32x32.png')}}"> --}}
+<link rel="icon" type="image/x-icon" sizes="32x32" href="{{asset('logo/logo1.jpeg')}}">
 <link rel="manifest" href="{{asset('vms/wp-content/themes/doon/manifest.json')}}">
 
 <link rel="mask-icon" href="{{asset('vms/wp-content/themes/doon/safari-pinned-tab.svg')}}" color="#5bbad5">

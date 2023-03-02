@@ -41,7 +41,7 @@
 			<a href="{{route('vms.music.room')}}" class="item-link close-panel"><span> Music Room </span></a>
 		</li>
 		<li class="">
-			<a href="{{route('vms.audio.visual.room')}}" class="item-link close-panel"><span> Audio Visual Room </span></a>
+			<a href="{{route('vms.audio.visual.room')}}" class="item-link close-panel"><span> Auditorium </span></a>
 		</li>
 		<li class="">
 			<a href="{{route('vms.infrastructure.library')}}" class="item-link close-panel"><span> Library </span></a>

@@ -4,7 +4,7 @@
 <!-- MAIN CONTENT
 ================================================== -->
 <div class="top-banner wow fadeInDown"> 
-<img src="{{asset('images/academic-ethos-1.jpg')}}" alt="Top banner" class="img-fluid"> 	
+<img src="{{asset('images/vis/ACLB2374.JPG')}}" alt="Top banner" class="img-fluid"> 	
 </div>
 <!-- Breadcrumb ============================== -->
 <section class="breadcrumb-wrap wht-bg" >

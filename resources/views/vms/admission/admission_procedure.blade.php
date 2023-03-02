@@ -69,7 +69,7 @@
 <h3 class="inr-hd-bg">Registration Form</h3>
 {{-- <p><img src="{{asset('images/principal_img.jpg')}}" alt="VMS, Bhiwani - Principal" width="250" vspace="0" hspace="10"></p> --}}
 
-<p>Note :: Prospectus/Registration Fee Will Be Deposit ₹1000 At The Time Of Submission of This Form.</p>
+<p>Note :: prospectus/registration fee will be deposit ₹1000 at the time of submission of this form.</p>
 <p><span><strong><a href="{{asset('registration_form/vis_regis_form.pdf')}}" class="btn btn-primary" target="_blank" style="color: #fff;">Download Registration Form</a></strong></span></p>
 
 

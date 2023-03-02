@@ -75,11 +75,11 @@
 <h4><strong><span style="font-size: 28pt;">Introduction</span></strong></h4>
 	 
 <p style="text-align: justify;"> 
-The ambitious  Vaish International School, Bhiwani is the culmination of vision inspiration and zeal of worthy trustees of the Vaish Mahavidyalaya Trust, Bhiwani, Haryana. Vaish mahavidyalay Trust Bhiwani has taken one step forward by establishing Vaish International school as per international pattern having classes from Montessori (nursery )to 8th during the academic session 2023-24. It would provide dynamic and flexible learning environment.
+The ambitious  Vaish International School, Bhiwani is the culmination of vision inspiration and zeal of worthy trustees of the Vaish Mahavidyalaya Trust, Bhiwani, Haryana. Vaish mahavidyalay Trust Bhiwani has taken one step forward by establishing Vaish International school as per international pattern having classes from Montessori (Nursery )to 8th during the academic session 2023-24. It would provide dynamic and flexible learning environment.
 </p>
 
 <h4><strong><span style="font-size: 28pt;">Concept &amp; Vision….</span></strong></h4>
-<p style="text-align: justify;"><span style="line-height: 107%;">With a vision of cater to the needs of education for the global citizens and with the motto "Medium is English, While Culture is Indian." The school is determined to encourage our learners to discover their passion and decide their goal in life. The students of VMS (International Wing) will cherish their roots in the Indian value system and be global in their outlook and achievements</span></p>
+<p style="text-align: justify;"><span style="line-height: 107%;">With a vision of cater to the needs of education for the global citizens and with the motto "Medium is English, While Culture is Indian." The school is determined to encourage our learners to discover their passion and decide their goal in life. The students of VIS (International Wing) will cherish their roots in the Indian value system and be global in their outlook and achievements</span></p>
 
 <div class="clear"></div>
 <hr style="margin: 50px 0;"/>

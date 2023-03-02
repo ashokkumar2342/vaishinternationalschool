@@ -68,9 +68,8 @@
 </table>
 <p>&nbsp;</p>
 <div class="col-lg-12">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3496.771890380349!2d76.13117228191201!3d28.786062969312095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391261da37705f83%3A0xfcf2d2edc1f3d8f6!2sVaish%20Model%20International%20School!5e0!3m2!1sen!2sus!4v1677648292450!5m2!1sen!2sus" width="100%" height="470" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3496.776540862295!2d76.12880921501255!3d28.78592428235756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391261da37705f83%3A0xfcf2d2edc1f3d8f6!2sVaish%20International%20School!5e0!3m2!1sen!2sin!4v1677731761294!5m2!1sen!2sin" width="100%" height="470" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-	
 	</div>
 
 </div>

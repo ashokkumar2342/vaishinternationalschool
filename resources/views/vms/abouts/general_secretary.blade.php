@@ -78,7 +78,7 @@
 <p style="text-indent: 0in; text-align: justify;">We make concerted efforts for the holistic development of the students who enter the school portals by providing a platform to showcase their inborn talents. We emphasize art, music, dance, drama, sports and numerous other aspects of experiential education to help young people develop their true potential and pursue their inclinations and interests. The school offers state-of-the-art laboratories, classrooms with multimedia projectors, spacious and updated library, spacious playgrounds, reception halls, lush green lawns and much more. We endeavour to provide conducive environment to inculcate the values of life in students and to motivate them to achieve higher peaks of excellence. We are committed in taking constructive and purposeful actions to produce optimistic, independent, compassionate life-long learners and leaders who will bring glory to the school, state and the Nation.</p>
 <p style="text-indent: 0in; text-align: justify;">I believe that with active participation and sincere involvement of the parents along with the faculty of school will, surely be able to carry out its mission with commitment and bring forth a brighter and more vibrant tomorrow, in the years to come.</p>
 <p style="text-align: justify;">&nbsp;</p>
-<h5 style="text-indent: 0in;"><strong>- Pawan Buwaniwala ji</strong></h5>
+<h5 style="text-indent: 0in;"><strong>- Pawan Buwaniwala</strong></h5>
 
 	
 

@@ -85,9 +85,9 @@
 	</div>
 </div>
 <div class="col-md-9 content-dtl flex-first flex-md-unordered">
-	<p style="text-align: justify;">To ensure an ambience for innovative and creative pedagogy, the theory classes are supplemented with practical knowledge. The school possesses the most advanced Physics, Chemistry, Biology, Math & Language labs equipped with all necessary apparatus and infrastructure to facilitate the students to learn through experiments and activities.</p>
+	<p style="text-align: justify;">To ensure an ambience for innovative and creative pedagogy, the theory classes are supplemented with practical knowledge. The school possesses the most advanced Physics, Chemistry, Biology, Maths & Language labs equipped with all necessary apparatus and infrastructure to facilitate the students to learn through experiments and activities.</p>
 	<h4>&nbsp;</h4>
-	<h4><span style="color: #000000;"><strong>Bilogoy Lab</strong></span></h4>
+	<h4><span style="color: #000000;"><strong>Biology Lab</strong></span></h4>
 	<table style="width: 1000px; height: 251px;">
 		<tbody>
 			<tr>

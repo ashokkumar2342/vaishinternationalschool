@@ -361,7 +361,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 text-center">
-				<h3 class="inr-hd wow fadeInDown">All School Image</h3>
+				<h3 class="inr-hd wow fadeInDown">Gallery</h3>
 			</div>
 			<div class="col-lg-6">
 				<div class="row"> 

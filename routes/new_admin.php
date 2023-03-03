@@ -61,6 +61,7 @@ Route::prefix('news-calendar')->group(function () {
 
 Route::get('alumni', 'VmsController@alumni')->name('vms.alumni');
 Route::get('contacts', 'VmsController@contacts')->name('vms.contacts');
+Route::get('gallery', 'VmsController@gallery')->name('vms.gallery');
 
 
  

@@ -398,7 +398,9 @@
 					</div>
 				</div>
 			</div>
-			 
+			<div class="col-sm-12 text-center" style="margin-top:20px">
+				<a href="{{route('vms.gallery')}}">Go To Gallery</a>
+			</div> 
 		</div>
 	</div>
 </section>

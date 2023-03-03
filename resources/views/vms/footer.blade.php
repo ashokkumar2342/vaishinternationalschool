@@ -260,9 +260,7 @@ location = 'dsse-next-steps/index.html';
 }, false );
 </script>
 
-<!-- <link rel='stylesheet' id='dashicons-css'  href='https://www.doonschool.com/wp-includes/css/dashicons.min.css?ver=5.7.8' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='gllr_stylesheet-css'  href='https://www.doonschool.com/wp-content/plugins/gallery-plugin/css/frontend_style.css?ver=5.7.8' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='gllr_fancybox_stylesheet-css'  href='https://www.doonschool.com/wp-content/plugins/gallery-plugin/fancybox/jquery.fancybox.min.css?ver=5.7.8' type='text/css' media='all' /> -->
+
 <link rel="stylesheet" type="text/css" href="{{asset('vms/wp-content/cache/wpfc-minified/9j1calj4/2roez.css')}}" media="all"/>
 <script type='text/javascript' src='{{asset('vms/wp-includes/js/dist/vendor/wp-polyfill.min89b1.js?ver=7.4.4')}}' id='wp-polyfill-js'></script>
 <script type='text/javascript' id='wp-polyfill-js-after'>
@@ -283,11 +281,14 @@ var twentyseventeenScreenReaderText = {"quote":"<svg class=\"icon icon-quote-rig
 <script type='text/javascript' src="{{asset('vms/wp-content/themes/doon/assets/js/navigation5152.js?ver=1.0')}}" id='twentyseventeen-navigation-js'></script>
 <script type='text/javascript' src="{{asset('vms/wp-content/themes/doon/assets/js/global5152.js?ver=1.0')}}" id='twentyseventeen-global-js'></script>
 <script type='text/javascript' src="{{asset('vms/wp-content/themes/doon/assets/js/jquery.scrollTo431f.js?ver=2.1.2')}}" id='jquery-scrollto-js'></script>
-<script type='text/javascript' id='wpcf7cf-scripts-js-extra'>
-/* <![CDATA[ */
-var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/www.doonschool.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
+
+<script type='text/javascript' src="{{asset('vms/wp-content/plugins/gallery-plugin/js/frontend_scriptd988.js')}}" id='jquery-scrollto-js'></script>
+<script type='text/javascript' src="{{asset('vms/wp-content/plugins/gallery-plugin/fancybox/jquery.fancybox.min68b3.js')}}" id='jquery-scrollto-js'></script>
+
+{{-- <script type='text/javascript' src='https://www.doonschool.com/wp-content/plugins/gallery-plugin/js/frontend_script.js?ver=5.7.8' id='gllr_js-js'></script>
+<script type='text/javascript' src='https://www.doonschool.com/wp-content/plugins/gallery-plugin/fancybox/jquery.fancybox.min.js?ver=1' id='bws_fancybox-js'></script> --}}
+
+
 <script type='text/javascript' src="{{asset('vms/wp-content/plugins/cf7-conditional-fields/js/scriptsde92.js?ver=2.2.9')}}" id='wpcf7cf-scripts-js'></script>
 <script type='text/javascript' src="{{asset('vms/wp-includes/js/wp-embed.mind988.js?ver=5.7.8')}}" id='wp-embed-js'></script>
 <script type='text/javascript' id='gllr_enable_lightbox_ios-js-after'>

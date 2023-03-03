@@ -52,6 +52,11 @@ public function abouts()
     return view('vms.abouts.abouts');
 }
 
+public function gallery()
+{
+    return view('vms.gallery.gallery');
+}
+
 
 public function generalSecretary()
 { 

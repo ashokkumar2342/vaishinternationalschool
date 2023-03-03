@@ -518,6 +518,9 @@ a.nav-expander{
 										<li id="menu-item-13872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13872">
 											<a href="{{route('vms.student.life.academic')}}"><i class="fa fa-trophy"></i>News & Calendar</a>
 										</li>
+										<li id="menu-item-13872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13872">
+											<a href="{{route('vms.gallery')}}"><i class="fa fa-trophy"></i>Gallery</a>
+										</li>
 										
 										{{-- <li id="menu-item-14066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14066">
 											<a href="{{route('vms.alumni')}}"><i class="fa fa-user"></i>Alumni</a>

@@ -38,7 +38,7 @@
 </td>
 <td valign="top" width="6%">:</td>
 <td valign="top" width="60%">
-<p>Vaish Internationl School</p>
+<p>Vaish Internationl School, Bhiwani</p>
 <p>Near Railway Over Bridge, Devsar Chungi</p>
 <p>Circular Road Bhiwani (Haryana)</p>
 </td>
@@ -61,7 +61,7 @@
 <p class="title nobg" style="margin: 3px 0px 0px;">EMAIL</p>
 </td>
 <td valign="top">:</td>
-<td valign="top">info@visbhiwani.co.in</td>
+<td valign="top">visbhiwani@gmail.com</td>
 
 </tr>
 </tbody>

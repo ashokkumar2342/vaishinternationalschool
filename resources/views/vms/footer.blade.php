@@ -4,11 +4,11 @@
 <div class="textwidget"><div class="col-md-2"> <a href="{{route('vms.index')}}" title="The Doon School"><img src="{{asset('logo/logo1.jpeg')}}" alt="Logo"></a> </div>
 </div>
 <div class="col-md-4">			<div class="textwidget"><h5>Address</h5>
-<address>Vaish Internationl School, Near Railway Over Bridge, Devsar Chungi, Circular Road Bhiwani (Haryana)</p>
+<address>Vaish Internationl School, Bhiwani Near Railway Over Bridge, Devsar Chungi, Circular Road Bhiwani (Haryana)</p>
 
-<p>Email: <a href="cdn-cgi/l/email-protection.html#670e090108270308080914040f08080b4904080a"><span class="__cf_email__" data-cfemail="5831363e37183c3737362b3b30373734763b3735">[info@visbhiwani.co.in]</span></a></p>
+<p>Email: <a href="cdn-cgi/l/email-protection.html#670e090108270308080914040f08080b4904080a"><span class="__cf_email__" data-cfemail="5831363e37183c3737362b3b30373734763b3735">[ visbhiwani@gmail.com ]</span></a></p>
 <p>For all admissions enquiries,</p>
-<p>Please contact <a href="cdn-cgi/l/email-protection.html#6a0b0e07031919030504192a0e05050419090205050644090507"><span class="__cf_email__" data-cfemail="4726232a2e34342e282934072328282934242f28282b6924282a">[info@visbhiwani.co.in]</span></a> or</p>
+<p>Please contact <a href="cdn-cgi/l/email-protection.html#6a0b0e07031919030504192a0e05050419090205050644090507"><span class="__cf_email__" data-cfemail="4726232a2e34342e282934072328282934242f28282b6924282a">[ visbhiwani@gmail.com ]</span></a> or</p>
 <p>Telephone – <a href="tel:1352526406">+91-8168006945</a> </p>
 <p><!--or
 <p>Mobile: <a href="tel:9719638840">+91 9719638840</a></p>
@@ -48,7 +48,7 @@
 <div class="col-sm-12 text-center">			<div class="textwidget"><div class="textwidget">
 <div>
 <ul class="inr-links">
-<li class="brdr-nn">© Vaish International School, {{date('Y')}}. All rights reserved.</li>
+<li class="brdr-nn">© Vaish International School, Bhiwani {{date('Y')}}. All rights reserved.</li>
 <li><a href="#">Disclaimer</a></li>
 <li><a href="#">Privacy policy</a></li>
 <li><a href="#">Sitemap</a></li>

@@ -39,7 +39,7 @@
 			<a href="{{route('vms.general.secretary')}}" class="item-link close-panel"><span> General Secretary Message </span></a>
 		</li>
 		<li>
-			<a href="{{route('vms.senior.wing')}}" class="item-link close-panel" rel="founders"><span>List of Member Committee</span></a>
+			<a href="{{route('vms.senior.wing')}}" class="item-link close-panel" rel="founders"><span>Managing Committee</span></a>
 		</li>
 		
 	</ul> 
